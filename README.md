@@ -1,16 +1,11 @@
-## Hi there 👋
+Hi there 👋
+I'm Sunil, an Aspiring Data Engineering Enthusiast and Fullstack Developer, currently studying at Saraswati Multiple Campus.
 
-<!--
-**sunilsah816/sunilsah816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 About Me:
+💻 Skilled in Python (Django), ASP.NET Core MVC, and SQL
+📊 Passionate about Data Engineering, ETL Pipelines, and Big Data
+🌱 Currently learning ASP.NET Core MVC, Entity Framework Core, and Data Engineering concepts
+🚀 Built a CRM App and working on CRUD projects in ASP.NET Core
+📫 Let's Connect:
+LinkedIn: linkedin.com/in/sunil-sah-b484a3194
+⚡ "Transforming Data into Insights!"
